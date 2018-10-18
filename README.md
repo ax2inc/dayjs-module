@@ -1,3 +1,5 @@
+> The project has moved to [https://github.com/ax2inc/nuxt-modules/tree/master/packages/dayjs](https://github.com/ax2inc/nuxt-modules/tree/master/packages/dayjs)
+
 # dayjs-module
 [![npm (scoped with tag)](https://img.shields.io/npm/v/@ax2/dayjs-module/latest.svg?style=flat-square)](https://npmjs.com/package/@ax2/dayjs-module)
 [![npm](https://img.shields.io/npm/dt/@ax2/dayjs-module.svg?style=flat-square)](https://npmjs.com/package/@ax2/dayjs-module)
